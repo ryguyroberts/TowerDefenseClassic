@@ -6,14 +6,18 @@ As a player, I want to place towers strategically along enemy paths to divert th
 
 As a player, I want to upgrade my towers' abilities to increase their effectiveness in deterring enemy progression.
 
-As a player, I want to earn in-game currency by defeating enemies so that I can purchase and upgrade more towers.
+As a player, I want to have predictable movement to plan my tower placements effectively.
 
-As a player, I want to have a clear indication of enemy paths and their movement direction to plan my tower placements effectively.
+As a player, I want to have a build phase where I can prepare my strategy prior to calling the next wave.
 
 As a player, I want to be able to pause and resume the game at any time to take a break or strategize my next moves.
 
+As a player, I want to keep track of how many lives I have left.
+
 
 ## Important
+
+As a player, I want to earn in-game currency by defeating enemies so that I can purchase and upgrade more towers.
 
 As a player, I want to be able to sell and reposition towers during gameplay to adapt to changing enemy movements.
 
@@ -27,7 +31,7 @@ As a player, I want to have a variety of challenging enemy types with different 
 
 As a player, I want to receive notifications when enemies are approaching so that I can prepare my defenses accordingly.
 
-As a player, I want to receive rewards or bonuses for completing levels early.
+As a player, I want to receive rewards or bonuses for calling the next wave early.
 
 
 ## Nice-to-Have
